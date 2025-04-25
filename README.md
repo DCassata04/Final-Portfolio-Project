@@ -3,7 +3,6 @@
 ***
 
 # Danielle Cassata 
-Email Address: dacassata@loyola.edu 
 - ![Profile-Photo](Images/Profile_Pic.png)
 # About Me
    - Hello! I am a current student and para-professional with over 2 years of proven expertise in early childhood education and special education.
@@ -14,7 +13,7 @@ Email Address: dacassata@loyola.edu
 ***
 
 # Education 
-I am a current Loyola University Maryland Undergraduate Student. 
+I am currently in my Junior Year at Loyola University Maryland 
 
 ***
 
