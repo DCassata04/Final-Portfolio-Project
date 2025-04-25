@@ -1,6 +1,11 @@
+![Banner](Images/Banner_photo.png)
+
+***
+
 # Danielle Cassata 
 Contact Info: dacassata@loyola.edu
 # About Me 
+<<<![Profile-Photo](Images/Profile_Pic.png)
 Hello! I am a current student and para-professional with over 2 years of proven expertise in early childhood education and special education. 
 ***
 With skills in problem solving, strategically analyzing data, programming in Python, and financial management in Excel, I am able to organize student file databases that contain 25GB of data and achieve accurate financial data. I am adept at using Excel, Python, and Microsoft Access. 
