@@ -21,19 +21,19 @@ Loyola University Maryland Undergraduate Student
 
 # Technology Excel 
 
--!["Excel Spreadsheet Image"](/Images/Project1.png) 
+-!["Excel Spreadsheet Image"](Images/Photo-Project1.png)
  - In this project, I had a list of items given to me along with which specifications of each item in order to help display an easier view of everything. I used Microsoft Excel and made a spreadsheet showing the specs for each item, including CPU speed, Memory, etc. I was able to learn better organization in Excel throughout my first steps into really using Excel ever.
 
 ***
 
 # Personality Test 
--!["Python3 Code Image"](/Images/Project2.png)
+-!["Python3 Code Image"](Images/Photo-Project2.png)
  - In this project, I created a personality test that categorizes the user into different personality types based on the input from the user. I was able to create a code that implemented different functions on Python 3, such as error checking and if/ elif statements, to display the questions I created. As well as calculating the results carefully and accurately. It was important for me to execute the code multiple times and find the errors made along the way in order to complete this project.
 
 
 ***
 
 # Budget Tracker 
- -![Excel Spreadsheet Budget Image](/Images/Project3.png)
+ -![Excel Spreadsheet Budget Image](Images/Photo-Project3.png)
  - In this project, I had to create a budget tracker to help stay on top of finances, expenses, and income. Being able to keep it organized by using certain functions to keep it as organized as possible. I again used Microsoft Excel, opened up a spreadsheet, and created a table with the function for pricing. I worked on this project myself to challenge myself a bit before learning the controls and functions of Excel.
 
